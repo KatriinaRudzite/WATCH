@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="LV=lv">
+<head>
+    <meta charset="UTF-8">
+    <title>Miega diagramma</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        canvas {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+</head>
+<body>
+<canvas id="sleepChart"></canvas>
+<script>
+    const ctx = document.getElementById('sleepChart').getContext('2d');
+
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['P', 'O', 'T', 'C', 'P', 'S', 'Sv'],
+            datasets: [{
+                label: 'Miega ilgums (stundās)',
+                data: [6.5, 7.2, 5.8, 8.0, 6.9, 7.5, 7.0],
+                backgroundColor: [
+                    '#2196F3', '#4CAF50', '#FFC107',
+                    '#9C27B0', '#FF5722', '#3F51B5', '#00BCD4'
+                ],
+                borderRadius: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { display: false },
+                tooltip: { callbacks: {
+                    label: ctx => `${ctx.raw} stundas`
+                }}
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    max: 10,
+                    title: {
+                        display: true,
+                        text: 'Stundas'
+                    }
+                }
+            }
+        }
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>SpO₂ Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #2196F3; /* Android @color/blue līdzīgi */
+            font-family: sans-serif;
+        }
+
+        #myChart {
+            width: 100%;
+            height: 100%;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: 250px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="chart-container">
+    <canvas id="myChart"></canvas>
+</div>
+
+<script>
+    const ctx = document.getElementById('myChart').getContext('2d');
+
+    const chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: ['P', 'O', 'T', 'C', 'P', 'S', 'Sv'],
+            datasets: [{
+                label: 'SpO₂ (%)',
+                data: [94, 96, 95, 92, 93, 94, 93],
+                borderColor: 'white',
+                backgroundColor: 'rgba(255,255,255,0.2)',
+                borderWidth: 2,
+                fill: true,
+                tension: 0.3,
+                pointBackgroundColor: 'white',
+                pointRadius: 5
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    labels: {
+                        color: 'white'
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    ticks: {
+                        color: 'white'
+                    },
+                    grid: {
+                        color: 'rgba(255,255,255,0.1)'
+                    }
+                },
+                y: {
+                    suggestedMin: 90,
+                    suggestedMax: 100,
+                    ticks: {
+                        color: 'white'
+                    },
+                    grid: {
+                        color: 'rgba(255,255,255,0.1)'
+                    }
+                }
+            }
+        }
+    });
+</script>
+</body>
+</html>

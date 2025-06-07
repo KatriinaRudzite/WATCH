@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sirdsdarbība</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        canvas {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+<canvas id="heartChart"></canvas>
+
+<script>
+    const ctx = document.getElementById('heartChart').getContext('2d');
+    const chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: ['P', 'O', 'T', 'C', 'Pk', 'S', 'Sv'],
+            datasets: [{
+                label: 'Sirdsdarbība',
+                data: [65, 68, 72, 75, 78, 74, 70],
+                borderColor: 'green',
+                borderWidth: 2,
+                fill: false,
+                tension: 0.4
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { display: false }
+            },
+            scales: {
+                y: {
+                    beginAtZero: false,
+                    title: {
+                        display: true,
+                        text: 'BPM'
+                    }
+                }
+            }
+        }
+    });
+</script>
+</body>
+</html>

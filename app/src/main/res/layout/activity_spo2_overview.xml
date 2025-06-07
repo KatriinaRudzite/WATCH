@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background_gradient"
+        android:contentDescription="@null" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="24dp"
+        android:fillViewport="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageButton
+                android:id="@+id/btnBack"
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:layout_gravity="start"
+                android:layout_marginBottom="16dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_arrow_back"
+                android:contentDescription="Atpakaļ"
+                app:tint="@android:color/white"
+                tools:ignore="TouchTargetSizeCheck" />
+            <TextView
+                android:id="@+id/tvSpO2Value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SpO₂: 93%"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:textColor="@android:color/white"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="16dp" />
+            <WebView
+                android:id="@+id/chartWebView"
+                android:layout_width="match_parent"
+                android:layout_height="234dp"
+                android:layout_marginBottom="24dp"
+                android:background="@android:color/white"
+                android:elevation="4dp" />
+            <TextView
+                android:id="@+id/tvSuggestion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp"
+                android:background="@drawable/white_rounded_box"
+                android:padding="16dp"
+                android:text="Vidējais – 93%\nIeteikums – ievēro elpošanas vingrinājumus."
+                android:textColor="@android:color/black"
+                android:textSize="16sp"
+                android:elevation="2dp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background_gradient"
+        android:contentDescription="@null" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="24dp"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/btnBack"
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:layout_gravity="start"
+                android:layout_marginBottom="16dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_arrow_back"
+                android:contentDescription="Atpakaļ"
+                app:tint="@android:color/white"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/white_rounded_box"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="Lietotnes paziņojumi"
+                    android:textSize="16sp"
+                    android:textColor="@android:color/black" />
+
+                <Switch
+                    android:id="@+id/notificationsSwitch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minWidth="48dp"
+                    android:minHeight="48dp" />
+            </LinearLayout>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnChangePassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mainīt paroli"
+                android:textAllCaps="false"
+                android:gravity="start"
+                android:layout_marginTop="24dp"
+                android:backgroundTint="@color/soft_pink"
+                android:textColor="@android:color/white"
+                app:cornerRadius="16dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Profils"
+                android:textAllCaps="false"
+                android:gravity="start"
+                android:layout_marginTop="8dp"
+                android:backgroundTint="@color/vivid_purple"
+                android:textColor="@android:color/white"
+                app:cornerRadius="16dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSupport"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Atbalsts"
+                android:textAllCaps="false"
+                android:gravity="start"
+                android:layout_marginTop="8dp"
+                android:backgroundTint="@color/deep_blue"
+                android:textColor="@android:color/white"
+                app:cornerRadius="16dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnLogout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Iziet"
+                android:textAllCaps="false"
+                android:gravity="start"
+                android:layout_marginTop="8dp"
+                android:backgroundTint="@color/coral_orange"
+                android:textColor="@android:color/white"
+                app:cornerRadius="16dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnDeleteAccount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dzēst kontu"
+                android:textAllCaps="false"
+                android:gravity="start"
+                android:layout_marginTop="8dp"
+                android:backgroundTint="@android:color/white"
+                android:textColor="@android:color/black"
+                app:cornerRadius="16dp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

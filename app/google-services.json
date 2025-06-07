@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "86421308696",
+    "firebase_url": "https://watch-afc42-default-rtdb.firebaseio.com",
+    "project_id": "watch-afc42",
+    "storage_bucket": "watch-afc42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86421308696:android:f095c38614532374180a6d",
+        "android_client_info": {
+          "package_name": "com.example.mywatchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwkS2M4VgbeS-yEa4rIJLOTV8jhbcjjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+gender,min_age,max_age,min_steps,max_steps,recommendation
+Vīrietis,18,25,0,9999,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Vīrietis,18,25,10000,12000,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Vīrietis,18,25,12001,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+Vīrietis,26,35,0,9499,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Vīrietis,26,35,9500,11500,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Vīrietis,26,35,11501,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+
+Vīrietis,36,45,0,8999,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Vīrietis,36,45,9000,11000,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Vīrietis,36,45,11001,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+
+Vīrietis,46,60,0,7999,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Vīrietis,46,60,8000,10000,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Vīrietis,46,60,10001,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+
+Vīrietis,61,150,0,5999,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Vīrietis,61,150,6000,8000,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Vīrietis,61,150,8001,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+
+Sieviete,18,25,0,8999,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Sieviete,18,25,9000,11000,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Sieviete,18,25,11001,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+
+Sieviete,26,35,0,8499,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Sieviete,26,35,8500,10500,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Sieviete,26,35,10501,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+
+Sieviete,36,45,0,7999,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Sieviete,36,45,8000,10000,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Sieviete,36,45,10001,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+
+Sieviete,46,60,0,6999,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Sieviete,46,60,7000,9000,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Sieviete,46,60,9001,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+
+Sieviete,61,150,0,4999,"Aktivitātes rādītājs ir zem normas. Nepietiekama fiziskā aktivitāte var veicināt izturības trūkumu, mazkustība var ietekmēt sirds un asinsvadu veselību. Ja palielināsiet ikdienas fiziskās aktivitātes veicināsiet izturību un enerģijas līmenis arī augs."
+Sieviete,61,150,5000,7000,"Dienas aktivitātes normas līmenis ir sasniegts, kas uzlabo veselīgu svaru, stiprina muskuļus un kaulus, palīdz noguruma un trauksmes mazināšanai. Turpiniet ievērot veselīgu dzīvesveidu!"
+Sieviete,61,150,7001,99999,"Ļoti labi! Lielāka aktivitāte kā ieteicams neradīs neko sliktu, ja jūtaties labi un nekas nesāp. Intensīva aktivitāte uzlabo sirds veselību, bet ļoti svarīga ir arī atpūta. Pārāk nogurdinoša un smaga aktivitāte var  radīt pretēju efektu, piemēram, palielināt traumu risku un nogurumu."
+

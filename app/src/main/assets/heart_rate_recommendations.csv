@@ -1,0 +1,40 @@
+gender,min_age,max_age,min_bpm,max_bpm,recommendation
+Vīrietis,18,25,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Vīrietis,18,25,60,80,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Vīrietis,18,25,81,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Vīrietis,26,35,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Vīrietis,26,35,60,80,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Vīrietis,26,35,81,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Vīrietis,36,45,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Vīrietis,36,45,60,80,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Vīrietis,36,45,81,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Vīrietis,46,60,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Vīrietis,46,60,60,85,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Vīrietis,46,60,86,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Vīrietis,61,150,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Vīrietis,61,150,60,85,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Vīrietis,61,150,86,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Sieviete,18,25,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Sieviete,18,25,60,80,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Sieviete,18,25,81,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Sieviete,26,35,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Sieviete,26,35,60,80,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Sieviete,26,35,81,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Sieviete,36,45,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Sieviete,36,45,60,85,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Sieviete,36,45,86,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Sieviete,46,60,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Sieviete,46,60,60,85,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Sieviete,46,60,86,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."
+
+Sieviete,61,150,0,59,"Zema sirdsdarbība ir normāla atpūtas un miega laikā, taču ja jūtat elpas trūkumu, sāpes krūtīs vai reibst galva, konsultējies ar ārstu."
+Sieviete,61,150,60,85,"Jūsu pulss ir labā līmenī. Sirds spēj transportēt skābekli un minerālvielas visām ķermeņa daļām. Turpiniet ievērot veselīgu dzīvesveidu, lai izvairītos no hroniskām slimībām."
+Sieviete,61,150,86,200,"Augsts pulss var būt stresa, trauksmes vai veselības problēmu rezultāts. Ieteicams konsultēties ar ārstu, ja tas ir pastāvīgi. Ja šādi rādītāji ir reti ieteicams veikt elpošanas vingrinājumus, lai mazinātu nervu sistēmas saspringumu, ieteicams izvairīties no kofeīna."

@@ -1,0 +1,6 @@
+gender,min_age,max_age,min_spo2,max_spo2,recommendation
+Vīrietis,18,150,0,89,"Skābekļa piesātinājums zem normas var liecināt par nogurumu vai sliktu skābekļa piegādi audos. Ja vērtības ir zem 90%, nepieciešams meklēt medicīnisko palīdzību."
+Vīrietis,18,150,90,100,"Jūsu skābekļa līmenis ir labā līmenī. Turpiniet sekot rādītajiem un ievērot veselīgu dzīvesveidu."
+
+Sieviete,18,150,0,89,"Skābekļa piesātinājums zem normas var liecināt par nogurumu vai sliktu skābekļa piegādi audos. Ja vērtības ir zem 90%, nepieciešams meklēt medicīnisko palīdzību."
+Sieviete,18,150,90,100,"Jūsu skābekļa līmenis ir labā līmenī. Turpiniet sekot rādītajiem un ievērot veselīgu dzīvesveidu."

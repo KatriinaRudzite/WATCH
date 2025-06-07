@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WATCH</string>
+    <string name="welcome_text">Labdien!</string>
+    <string name="btn_sync">Sinhronizēt</string>
+    <string name="btn_settings">Iestatījumi</string>
+    <string name="btn_steps">Soļi</string>
+    <string name="btn_sleep">Miegs</string>
+    <string name="btn_heart_rate">Sirdsdarbība</string>
+    <string name="btn_spo2">SpO2</string>
+    <string name="btn_recommendations">Ieteikumi</string>
+    <string name="label_add_goal">Pievienot mērķi:</string>
+
+    <string-array name="gender_array">
+        <item>Vīrietis</item>
+        <item>Sieviete</item>
+    </string-array>
+
+    <string-array name="age_array">
+        <item>18-25</item>
+        <item>26-35</item>
+        <item>36-45</item>
+        <item>46+</item>
+    </string-array>
+
+</resources>

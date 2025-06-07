@@ -1,0 +1,7 @@
+gender,min_age,max_age,min_hours,max_hours,recommendation
+Vīrietis,18,25,0.0,6.9,"Nepietiekams miegs var izraisīt uzmanības, koncentrēšanās un atmiņas problēmas, kā arī palielina hronisku slimību risku. Mēģiniet uzlabot miega režīmu lai sasniegtu ieteicamās 7-9 stundas miega. Ja patstāvīgi to nesanāk uzlabot, ieteicams vērsties pie speciālista."
+Vīrietis,18,25,7.0,9.0,"Miega ilgums ir pietiekams – tas uzlabo imunitāti un garīgo veselību. Turpiniet ievērot veselīgu miega režīmu."
+Vīrietis,18,25,9.1,24.0,"Pārmērīgs miegs var norādīt uz depresiju, trauksmi vai miega traucējumiem. Nepieciešams censties ieviest regulāru miega režīmu. Ja patstāvīgi to nesanāk uzlabot, ieteicams vērsties pie speciālista."
+Sieviete,18,25,0.0,6.9,"Nepietiekams miegs var izraisīt uzmanības, koncentrēšanās un atmiņas problēmas, kā arī palielina hronisku slimību risku. Mēģiniet uzlabot miega režīmu lai sasniegtu ieteicamās 7-9 stundas miega. Ja patstāvīgi to nesanāk uzlabot, ieteicams vērsties pie speciālista."
+Sieviete,18,25,7.0,9.0,"Miega ilgums ir pietiekams – tas uzlabo imunitāti un garīgo veselību. Turpiniet ievērot veselīgu miega režīmu."
+Sieviete,18,25,9.1,24.0,"Pārmērīgs miegs var norādīt uz depresiju, trauksmi vai miega traucējumiem. Nepieciešams censties ieviest regulāru miega režīmu. Ja patstāvīgi to nesanāk uzlabot, ieteicams vērsties pie speciālista."

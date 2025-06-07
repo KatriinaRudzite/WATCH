@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Pamattema ar MaterialComponents -->
+    <style name="Base.Theme.WATCH" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Galvenās krāsas -->
+        <item name="colorPrimary">@color/teal_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <item name="colorSecondary">@color/purple_500</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <!-- Virsmas un foni -->
+        <item name="colorSurface">@color/light_gray</item>
+        <item name="colorOnSurface">@color/black</item>
+
+        <!-- Loga fons -->
+        <item name="android:windowBackground">@color/light_gray</item>
+
+        <!-- Ripple efekts -->
+        <item name="colorControlHighlight">?attr/colorSecondary</item>
+
+        <!-- Vispārīgais fonta stils (neobligāti) -->
+        <item name="android:textColorPrimary">@color/black</item>
+    </style>
+
+    <!-- Galvenā tēma -->
+    <style name="Theme.WATCH" parent="Base.Theme.WATCH" />
+
+</resources>
